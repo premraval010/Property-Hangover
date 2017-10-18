@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\f82332cd1aea25496e03545356d71d88d8ac95e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\13d7f6110a9eadce9fd6448d5df2f8aba96de92e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\17447341a0fe099a06da78c7b4e190df171136cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\ab5044b708c2c05ed500ba3d14eeb65831328c02\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\01766d2dd61872cda019705c56184d6f3a14aabe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\b02764c9fb362df30fffafe748548098fd29c962\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\682596db2246305366e8d9ecdb15c110f3ec1bdb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\3041a1080bb090d851e82134966e325eedaf895d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Nirmal\.android\build-cache\a612e900b9bef41af7c227f7bb8a03e64c7a37af\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:11:9-50
+	android:supportsRtl
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:10:9-38
+	android:theme
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.propertyhangover.propertyhangover.MainActivity
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\f82332cd1aea25496e03545356d71d88d8ac95e7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\13d7f6110a9eadce9fd6448d5df2f8aba96de92e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\17447341a0fe099a06da78c7b4e190df171136cb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\ab5044b708c2c05ed500ba3d14eeb65831328c02\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\01766d2dd61872cda019705c56184d6f3a14aabe\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\b02764c9fb362df30fffafe748548098fd29c962\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\682596db2246305366e8d9ecdb15c110f3ec1bdb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\3041a1080bb090d851e82134966e325eedaf895d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Nirmal\.android\build-cache\a612e900b9bef41af7c227f7bb8a03e64c7a37af\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nirmal\Desktop\PropertyHangover\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\f82332cd1aea25496e03545356d71d88d8ac95e7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\13d7f6110a9eadce9fd6448d5df2f8aba96de92e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\17447341a0fe099a06da78c7b4e190df171136cb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\ab5044b708c2c05ed500ba3d14eeb65831328c02\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\01766d2dd61872cda019705c56184d6f3a14aabe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\b02764c9fb362df30fffafe748548098fd29c962\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\682596db2246305366e8d9ecdb15c110f3ec1bdb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\3041a1080bb090d851e82134966e325eedaf895d\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\AndroidManifest.xml:26:9-47
